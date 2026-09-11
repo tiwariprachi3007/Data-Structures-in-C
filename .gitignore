@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.exe
+*.o
+*.out
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore build directories (if any)
+build/
