@@ -19,7 +19,6 @@ int main() {
     int maxRow = -1;
 
     while (i < n && j >= 0) {
-
         if (arr[i][j] == 1) {
             maxRow = i;
             j--;          // Move left

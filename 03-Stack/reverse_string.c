@@ -30,6 +30,5 @@ int main(){
     while (top != -1) {
         printf("%c", pop());
     }
-
     return 0;
 }
